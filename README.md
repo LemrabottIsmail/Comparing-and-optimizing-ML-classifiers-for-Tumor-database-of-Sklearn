@@ -14,7 +14,7 @@ In the second part we designed a Decision Tree Classifier and optimized its hype
 <h1>Part 3 - classifiers Comparison</h1>
 In the third part we compared all the classifiers which are Nearest Neighbors, Linear and RBF SVM, Gaussian Process,Decision Tree,
 Random Forest,Neural Net,AdaBoost,Naive Bayes and QDA. We plotted the final results as demosntrated below. We also printed the highest accuracy for the best model.
-<img src="imgs/classifiers.png" width="500">
+<img src="imgs/classifiers.png" width="800">
 <h1>Part 4 - classifiers Scores</h1>
 In this part we compared all classifiers using confusion matrix, accuracy, precision, recall, ROC, AUC and Complexity based on time.
 <img src="imgs/scores.png">
